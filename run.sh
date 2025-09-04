@@ -1,0 +1,1 @@
+ luajit olfuseln.lua && afplay guitar_ducks.wav 
